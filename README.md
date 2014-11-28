@@ -1,42 +1,32 @@
 Makers Academy Course
 ===================
 
-#####Weekly breakdown of the 12 weeks at [Makers Academy](https://www.makersacademy.com). The purpose is to have a single hub that links to all other repositories created whilst on the program for organisational benefit.
-
-Please fork this repo to your own Github, and then edit the README to check off the parts of the course you have completed.  If you are unsure about whether you have successfully completed any part of the course, please ask a coach or alumni helper to confirm that you have finished the relevant component.
+#####This repository has been created to show a weekly breakdown of my 12 weeks at Makers Academy. The purpose is to have a single hub that links to all other repositories created whilst on the program for organisational benefit. All project Titles are clickable links.
 
 Many thanks to [Tim Scully](https://github.com/Scully87) for the original design of this document
 
 Pre-Course
 -----------
 
-  - [ ] [Introduction](https://github.com/makersacademy/pre_course/blob/master/introduction.md)
-  - [ ] [Expectations](https://github.com/makersacademy/pre_course/blob/master/you.md)
-  - [ ] [Success?](https://github.com/makersacademy/pre_course/blob/master/success.md)
-  - [ ] [Transparency, Effort and Compassion](https://github.com/makersacademy/pre_course/blob/master/tec.md)
-  - [ ] [Command Line](https://github.com/makersacademy/pre_course/blob/master/command_line.md)
+  - [x] [Introduction]
+  - [x] [Expectations]
+  - [x] [Command Line]
 
         - Walkthrough
         - Exercises
 
-  - [ ] [Unixoid Challenge](https://github.com/makersacademy/unixoid-challenge) (Friday Challenge)
-
-  - [ ] [Version Control (git)](https://github.com/makersacademy/pre_course/blob/master/version_control.md)
+  - [x] [Version Control (git)]
 
         - Walkthrough
         - Exercises
-  
-  - [ ] [Octocat Challenge](https://github.com/makersacademy/octocat_challenge) (Friday Challenge)
-
-        - Github Practice
         
-  - [ ] [Ruby](https://github.com/makersacademy/pre_course/blob/master/ruby.md)
+  - [x] [Ruby]
 
         - Exercises from links
         - Makers' Pills
         - Makers' Quizlet/Memrise
 
-  - [ ] [Student Directory](https://github.com/makersacademy/pre_course/blob/master/student_directory.md)
+  - [x] [Student Directory](https://github.com/ananogal/student-directory)
 
         - First Project
 
