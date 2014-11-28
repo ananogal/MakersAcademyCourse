@@ -30,7 +30,7 @@ Pre-Course
 
         - First Project
 
-  - [ ] Useful Links:
+  - [x] Useful Links:
 
     - [Try Git](https://try.github.io/levels/1/challenges/1)
     - [Command Line Crash Course](http://cli.learncodethehardway.org/book/)
@@ -52,7 +52,7 @@ Week 1 (OO Ruby)
 
   - [ ] Introduction
 
-  - [ ] [Boris Bikes](https://github.com/makersacademy/course/blob/master/boris_bikes.md) (Weekday Project)
+  - [ ] [Boris Bikes](https://github.com/MadameSardine/boris_bikes) (Weekday Project)
 
         - CRC - Class Responsibility Collaboration Cards
         - TDD - Test Driven Development
@@ -62,7 +62,7 @@ Week 1 (OO Ruby)
         - RSpec - Testing framework
         - Chicago vs London Testing Styles
 
-  - [ ] [FAAST (Architect Badge)](https://github.com/makersacademy/faast-challenge) (Friday Challenge) 
+  - [x] [FAAST (Architect Badge)](https://github.com/ananogal/faast) (Friday Challenge) 
 
 ![Architect](images/badges/Architect_thumb.jpg)
 
@@ -76,19 +76,19 @@ Week 2 (OO Ruby in Teams)
 
 ####Projects:
 
-  - [ ] [BattleShips](https://github.com/makersacademy/course/blob/master/battle_ships.md) (Weekday Project)
+  - [x] [BattleShips](https://github.com/HatStephens/battleships_Team_SAZAS) (Weekday Project)
 
         - Teamwork
         - Domain modelling
         - The game engine
         - User Interface
 
-  - [ ] [Take-Away (Rubyist Badge)](https://github.com/makersacademy/takeaway-challenge) (Friday Challenge)
+  - [x] [Take-Away (Rubyist Badge)](https://github.com/ananogal/Takeaway) (Friday Challenge)
 
         - Twilio Gem
         - Mocking calls to external APIs
 
-  - [ ] [Inject Method (Rubyist Badge)](https://github.com/makersacademy/inject-challenge) (Friday Challenge)
+  - [x] [Inject Method (Rubyist Badge)](https://github.com/ananogal/Array_inject) (Friday Challenge)
 
         - Reimplementing the Inject method
 
