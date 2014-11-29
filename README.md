@@ -50,9 +50,9 @@ Week 1 (OO Ruby)
 
 ####Projects:
 
-  - [ ] Introduction
+  - [x] Introduction
 
-  - [ ] [Boris Bikes](https://github.com/MadameSardine/boris_bikes) (Weekday Project)
+  - [x] [Boris Bikes](https://github.com/MadameSardine/boris_bikes) (Weekday Project)
 
         - CRC - Class Responsibility Collaboration Cards
         - TDD - Test Driven Development
@@ -107,7 +107,7 @@ Week 3 (Web Apps in Ruby Using Sinatra)
 
 ####Projects:
 
-  - [ ] [BattleShips Web](https://github.com/makersacademy/course/blob/master/battle_ships_web.md) (Weekday Project)
+  - [x] [BattleShips Web](https://github.com/HatStephens/battleships_Team_SAZAS) (Weekday Project)
 
         - Sinatra
         - Cucumber
@@ -115,7 +115,7 @@ Week 3 (Web Apps in Ruby Using Sinatra)
         - Sessions
         - Params
 
-  - [ ] [Rock Paper Scissors (Ronin Badge)](https://github.com/makersacademy/rps-challenge) (Friday Challenge)
+  - [x] [Rock Paper Scissors (Ronin Badge)](https://github.com/ananogal/rps) (Friday Challenge)
 
         - Using knowledge from weekday project to create a version of RPS in the browser
 
@@ -136,11 +136,11 @@ Week 4 (Database Web Apps in Ruby Using Sinatra)
 
 ####Projects:
 
-  - [ ] [Bookmark Manager](https://github.com/makersacademy/course/blob/master/bookmark_manager.md) (Weekday Project)
+  - [x] [Bookmark Manager](https://github.com/ananogal/bookmarks_manager) (Weekday Project)
 
         - Learning how to use relational databases
 
-  - [ ] [Twitter Clone (Data Badge)](https://github.com/makersacademy/chitter-challenge) (Friday Challenge)
+  - [x] [Twitter Clone (Data Badge)](https://github.com/ananogal/chitter) (Friday Challenge)
 
         - Creating a Twitter clone using databases.
 
@@ -159,15 +159,17 @@ Week 5 (JavaScript Core)
 
 ####Projects:
 
-  - [ ] [Fizzbuzz io](https://github.com/makersacademy/course/blob/master/pills/IoPill.md)  (Weekday Project)
+  - [x] [Fizzbuzz io](https://github.com/ananogal/FizzBuzz_io)  (Weekday Project)
+
+  - [x] [Fiobonacci io](https://github.com/ananogal/fibonacci_numbers)
 
         - Learn how to use the programming language io by doing a simple kata
 
-  - [ ] [Javabuzz](https://github.com/makersacademy/course/blob/master/pills/javascript%26JasminePill.md)  (Weekday Project)
+  - [x] [Javabuzz](https://github.com/ananogal/JavaBuzz)  (Weekday Project)
 
         - Learn how to use the programming language javascript by doing a simple kata
 
-  - [ ] [Airport](https://github.com/makersacademy/airport_challenge) (Weekday Project)
+  - [x] [Airport](https://github.com/ananogal/airport) (Weekday Project)
 
         - Use javascript to create an OOP program
 
@@ -175,11 +177,11 @@ Week 5 (JavaScript Core)
 
         - Another OOP program to recreate a previous project in Ruby
 
-  - [ ] [Rock Paper Scissors JS](https://github.com/makersacademy/course/blob/master/rock_paper_scissors.md) (Weekday Project)
+  - [x] [Rock Paper Scissors JS](https://github.com/ananogal/rps_js) (Weekday Project)
 
         - Re-creating RPS in javascript language
 
-  - [ ] [Up Your Alley (Polyglot Badge)](https://github.com/makersacademy/bowling-challenge) (Friday Challenge)
+  - [x] [Up Your Alley (Polyglot Badge)](https://github.com/ananogal/bowling) (Friday Challenge)
 
         - Creating a ten pin bowling scorer in Javascript
 
@@ -199,15 +201,15 @@ Week 6 (JavaScript Front End)
 
 ####Projects:
 
-  - [ ] [Thermostat](https://github.com/makersacademy/course/blob/master/challenges/thermostat.md) (Weekday Project)
+  - [x] [Thermostat](https://github.com/ananogal/thermostat) (Weekday Project)
 
         - Create a program to show current temperature and local weather report in a static location (London).
 
-  - [ ] [Github Profiles API](https://github.com/makersacademy/profiles_challenge) (Weekday Project)
+  - [x] [Github Profiles API](https://github.com/ananogal/github_profiles) (Weekday Project)
 
         - Create a simple page to show the use of Github user profiles through the developer API
 
-  - [ ] [Chitter (Frontman? Badge)](https://github.com/makersacademy/chitter-challenge) (Friday Challenge)
+  - [x] [Chitter (Frontman? Badge)](https://github.com/ananogal/chitter2.0) (Friday Challenge)
 
         - A Twitter clone using Javascript and your own API to display the tweets
 
@@ -227,15 +229,15 @@ Week 7 (Node)
 
 ####Projects:
 
-  - [ ] [Chatter](https://github.com/makersacademy/course/blob/master/pills/node.md) (Weekday Project)
+  - [x] [Chatter](https://github.com/ananogal/chat) (Weekday Project)
 
         - A simple server using sockets to make a chat program
 
-  - [ ] [CoffeeBuzz](#) (Weekday Project)
+  - [x] [CoffeeBuzz](https://github.com/ananogal/fizzBuzzCoffee) (Weekday Project)
 
         - A simple kata to understand the CoffeeScript language
         
-  - [ ] [Ruby Refresher](https://github.com/makersacademy/ruby-refresher)
+  - [x] [Ruby Refresher](https://github.com/ananogal/ruby-refresher)
         - A brush up on your ruby skills
 
 ![Sentry](images/badges/Sentry_thumb.jpg)
@@ -255,11 +257,11 @@ Week 8 (Rails)
 
 ####Projects:
 
-  - [ ] [Yelp Clone](https://github.com/makersacademy/course/blob/master/yelp.md) (Weekday Project)
+  - [x] [Yelp Clone](https://github.com/ananogal/yelp_clone) (Weekday Project)
 
         - A project to understand the fundamentals of Ruby on Rails
 
-  - [ ] [TIMstagram (Machinist Badge)](https://github.com/makersacademy/instagram-challenge) (Friday Challenge)
+  - [x] [TIMstagram (Machinist Badge)](https://github.com/ananogal/instagram_clone) (Friday Challenge)
 
         - A weekend project to re-create Instagram
 
@@ -267,11 +269,15 @@ Week 9 (Makerthon)
 --------
 
 ####Technologies Used:
-  - You tell us!
+  - [Javascript](http://www.w3schools.com/js/)
+  - [JQuery](http://jquery.com/)
+  - [nodejs](http://nodejs.org/)
+  - [Socket.io](http://socket.io/)
+  - [Mocha](https://github.com/mochajs/mocha)
 
 ####Projects:
 
-  - [ ] Makerthon
+  - [x] Makerthon - [gitRacer](https://github.com/ananogal/gitRacer) 
 
         - Small Team Projects.
 
