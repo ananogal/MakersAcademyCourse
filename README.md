@@ -261,7 +261,7 @@ Week 8 (Rails)
 
         - A project to understand the fundamentals of Ruby on Rails
 
-  - [x] [TIMstagram (Machinist Badge)](https://github.com/ananogal/instagram_clone) (Friday Challenge)
+  - [x] [Instagram Clone (Machinist Badge)](https://github.com/ananogal/instagram_clone) (Friday Challenge)
 
         - A weekend project to re-create Instagram
 
@@ -320,24 +320,24 @@ Week 10 (Five Languages in Five Days)
 
 
 
-Week 11 (Final Project)
+Week 11 and 12 (Final Project)
 ---------
 
 ####Technologies Used:
-  - You tell us!
 
-####Projects:
-  - You tell us!
+  - [Meteor](https://www.meteor.com/)
+  - [nodejs](http://nodejs.org/)
+  - [Socket.io](http://socket.io/)
+  - [Javascript](http://www.w3schools.com/js/)
+  - [JQuery](http://jquery.com/)
+  - [Mocha](https://github.com/mochajs/mocha)
+  - [Jasmine](http://jasmine.github.io/)
 
-Week 12 (Final Project)
----------
+####Project:    
+    ####Flicky Notes
+        For our final project at Makers Academy we choose to follow the idea of Bernard, Flicky Notes. Flicky Notes is a meeting app which allows you to write your own notes on a mobile device and then, with a simple swipe movement, send it to the board on your desktop.
+        [WATCH OUR VIDEO](https://www.youtube.com/watch?v=qpGh8sWWuV0&feature=youtu.be) on Flicky Notes.
 
-####Technologies Used:
-  - You tell us!
+####How to use
 
-####Projects:
-  - You tell us!
-
-
-
-
+Visit the website http://flickynotes.meteor.com on your computer AND your smartphone. Follow the onscreen instructions to use the app.
