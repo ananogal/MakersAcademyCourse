@@ -334,8 +334,9 @@ Week 11 and 12 (Final Project)
   - [Jasmine](http://jasmine.github.io/)
 
 ####Project: Flicky Notes
-    For our final project at Makers Academy we choose to follow the idea of Bernard, Flicky Notes. Flicky Notes is a meeting app which allows you to write your own notes on a mobile device and then, with a simple swipe movement, send it to the board on your desktop.
-        [WATCH OUR VIDEO](https://www.youtube.com/watch?v=qpGh8sWWuV0&feature=youtu.be) on Flicky Notes.
+For our final project at Makers Academy we choose to follow the idea of Bernard, Flicky Notes. Flicky Notes is a meeting app which allows you to write your own notes on a mobile device and then, with a simple swipe movement, send it to the board on your desktop.
+    
+[WATCH OUR VIDEO](https://www.youtube.com/watch?v=qpGh8sWWuV0&feature=youtu.be) on Flicky Notes.
 
 ####How to use
 
