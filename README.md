@@ -173,10 +173,6 @@ Week 5 (JavaScript Core)
 
         - Use javascript to create an OOP program
 
-  - [ ] [FAAST JS](https://github.com/makersacademy/faast-challenge) (Weekday Project)
-
-        - Another OOP program to recreate a previous project in Ruby
-
   - [x] [Rock Paper Scissors JS](https://github.com/ananogal/rps_js) (Weekday Project)
 
         - Re-creating RPS in javascript language
